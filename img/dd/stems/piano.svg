@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -40 400 320" aria-hidden="true" focusable="false">
+    <path
+      fill-rule="evenodd"
+      d="M0 0h360v240H0Z
+         M40 100v100h48v-40h-8v-60Z
+         M120 100v60h-8v40h56v-40h-8v-60Z
+         M200 100v60h-8v40h56v-40h-8v-60Z
+         M280 100v60h-8v40h48V100Z"
+    />
+  </svg>
